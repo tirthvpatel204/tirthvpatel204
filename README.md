@@ -1,30 +1,38 @@
-<!-- ========================= ABOUT ME ========================= -->
+<!-- ========================================= -->
+<!--               ABOUT ME                    -->
+<!-- ========================================= -->
 
 <h2 align="center">🚀 About Me</h2>
 
-<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 👋 Hi, I'm **Tirth Patel**
+```yaml
+Name: Tirth Patel
 
-- 🎓 AIML Engineering Student from **India 🇮🇳**
+Location: India 🇮🇳
 
-- 🤖 **Aspiring AI Engineer**
+Education: Computer Engineering Student
 
-- 📊 **Data Science Enthusiast**
+Focus:
+  - Artificial Intelligence
+  - Data Science
+  - Full Stack Development
 
-- 🌐 **Full Stack Developer**
+Currently Learning:
+  - Java
+  - Python
+  - Data Structures & Algorithms
+  - SQL
+  - Web Development
 
-- 💻 I enjoy building real-world projects and solving problems through code.
+Current Project:
+  - StudentHub
 
-- 🌱 Currently learning **Java, Python, DSA, SQL and Full Stack Development**
+Goal:
+  Build intelligent applications that solve real-world problems.
+```
 
-- 🚀 Working on **StudentHub – Student Management System**
-
-- 🎯 Goal: To become an AI Engineer, build impactful products and contribute to innovative technologies.
-
-- ⚡ Fun Fact: **I believe every great product starts with curiosity.**
-
-<br clear="both"/>
+<br>
 
 ---
 
@@ -32,12 +40,12 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/tirthpatel204" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="mailto:pateltirth2048@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tirthpatel204">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/tirthvpatel204">
