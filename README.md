@@ -85,19 +85,10 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 ```text
 🎯 Artificial Intelligence
-
 🎯 Data Science
-
-🎯 Full Stack Development
-
 🎯 Problem Solving
-
 🎯 Java Development
-
 🎯 Python Programming
-
-🎯 Building Real World Projects
-
 🎯 Continuous Learning
 ```
 
