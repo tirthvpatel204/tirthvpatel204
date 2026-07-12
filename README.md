@@ -338,36 +338,5 @@ Building projects that strengthen my skills in
 
 ---
 
-<h2 align="center">📚 Currently Learning</h2>
-
-```text
-✔ Java Programming
-
-✔ Python Programming
-
-✔ Data Structures & Algorithms
-
-✔ SQL & Database Design
-
-✔ Full Stack Development
-
-✔ Artificial Intelligence
-
-✔ Data Science
-
-✔ Machine Learning
-```
-
----
-
-<h2 align="center">🎯 2026 Goals</h2>
-
-- 🚀 Complete **StudentHub**
-- 🤖 Build AI-based Projects
-- 📊 Learn Data Science & Machine Learning
-- 🌐 Master Full Stack Development
-- 💼 Build an Outstanding Developer Portfolio
-- ⭐ Contribute to Open Source
-- 🏆 Maintain an Active GitHub Profile
 
 ---
