@@ -61,7 +61,7 @@ Hi 👋 I'm <b>Tirth Patel</b>
 
 <p>
 
-Hi there! 👋 I'm <b>Tirth Patel</b>, a <b>Computer Engineering Student</b> from <b>India 🇮🇳</b> who is passionate about building impactful software and exploring the world of Artificial Intelligence.
+Hi there! 👋 I'm <b>Tirth Patel</b>, a <b>Artificial Intelligent & Machine Learning Engineering Student</b> from <b>India 🇮🇳</b> who is passionate about building impactful software and exploring the world of Artificial Intelligence.
 
 I enjoy solving real-world problems through code and continuously improving my skills by building practical projects.
 
