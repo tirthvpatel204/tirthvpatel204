@@ -436,8 +436,3 @@ If you like my work, don't forget to ⭐ my repositories and connect with me.
 </div>
 
 
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
