@@ -1,11 +1,15 @@
+<!-- ============================== -->
+<!--        PREMIUM HERO            -->
+<!-- ============================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Tirth%20Patel&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Engineer%20•%20Data%20Science%20Enthusiast%20•%20Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Tirth%20Patel&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20•%20Data%20Science%20Enthusiast%20•%20Full%20Stack%20Developer&descAlignY=60"/>
 
 </div>
 
 <h1 align="center">
-Hi 👋, I'm <span style="color:#58A6FF;">Tirth Patel</span>
+Hi 👋 I'm <b>Tirth Patel</b>
 </h1>
 
 <h3 align="center">
@@ -15,57 +19,33 @@ Hi 👋, I'm <span style="color:#58A6FF;">Tirth Patel</span>
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Computer+Engineering+Student;Artificial+Intelligence+Enthusiast;Data+Science+Learner;Full+Stack+Developer;Java+%7C+Python+%7C+C%2B%2B;Building+Real+World+Projects;Always+Learning+Something+New+%F0%9F%9A%80" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🤖+Aspiring+AI+Engineer;📊+Data+Science+Enthusiast;🌐+Full+Stack+Developer;🚀+Building+Real+World+Projects;☕+Java+Developer;🐍+Python+Programmer;💻+C+%7C+C%2B%2B+Developer;🧠+Always+Learning+New+Technologies"/>
+
 </p>
 
 <p align="center">
+
 <a href="https://github.com/tirthvpatel204">
-<img src="https://komarev.com/ghpvc/?username=tirthvpatel204&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=tirthvpatel204&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
 </a>
 
 <a href="https://github.com/tirthvpatel204?tab=followers">
-<img src="https://img.shields.io/github/followers/tirthvpatel204?style=for-the-badge&logo=github&label=Followers"/>
+<img src="https://img.shields.io/github/followers/tirthvpatel204?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://github.com/tirthvpatel204">
-<img src="https://img.shields.io/github/stars/tirthvpatel204?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars"/>
+<img src="https://img.shields.io/github/stars/tirthvpatel204?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-## 💫 About Me
+<p align="center">
 
-```yaml
-Name: Tirth Patel
+> ### 💡 *"Transforming Curiosity into Intelligent Solutions."*
 
-Location: India 🇮🇳
-
-Education: Computer Engineering Student
-
-Interests:
-  - Artificial Intelligence
-  - Data Science
-  - Full Stack Development
-
-Programming Languages:
-  - C
-  - C++
-  - Java
-  - Python
-
-Currently Learning:
-  - Data Structures & Algorithms
-  - SQL
-  - MERN Stack
-  - Machine Learning
-
-Current Project:
-  - StudentHub
-
-Mission:
-  Build intelligent applications that solve real-world problems.
-```
+</p>
 
 ---
