@@ -407,7 +407,7 @@ I'm always open to connecting with developers, collaborating on exciting project
 
 ---
 
-<h2 align="center">❤️ Thanks for Visiting My Profile</h2>
+<h2 align="center"> Thanks for Visiting My Profile</h2>
 
 <p align="center">
 
@@ -435,4 +435,66 @@ If you like my work, don't forget to ⭐ my repositories and connect with me.
 
 </div>
 
+<!-- ===================================================== -->
+<!--                  SUPPORT & QUOTE                      -->
+<!-- ===================================================== -->
 
+<h2 align="center">💬 Favorite Quote</h2>
+
+<div align="center">
+
+> **"Transforming Curiosity into Intelligent Solutions."** 🚀
+
+> *"Success isn't built overnight. It's built one commit, one bug fix, and one project at a time."*
+
+</div>
+
+---
+
+<h2 align="center">🚀 Current Mission</h2>
+
+<div align="center">
+
+🧠 Learning Artificial Intelligence
+
+📊 Exploring Data Science
+
+🌐 Becoming a Full Stack Developer
+
+💻 Building Real-World Projects
+
+📚 Improving Every Day
+
+</div>
+
+---
+
+<h2 align="center">☕ Thanks for Visiting</h2>
+
+<div align="center">
+
+⭐ If you like my work, consider following me on GitHub!
+
+💙 Let's connect and build something amazing together.
+
+</div>
+
+<p align="center">
+
+<a href="https://github.com/tirthvpatel204">
+<img src="https://img.shields.io/badge/⭐%20Follow%20Me%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tirthpatel204">
+<img src="https://img.shields.io/badge/💼%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Keep Learning • Keep Building • Keep Growing 🚀
+
+</div>
