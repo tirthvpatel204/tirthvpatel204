@@ -13,9 +13,13 @@
 </p>
 </div>
 
-<h1 align="center">
-Hi 👋 I'm <b>Tirth Patel</b>
-</h1>
+<h2 align="center">
+👋 Hi, I'm Tirth Patel
+</h2>
+
+<p align="center">
+🤖 Aspiring AI Engineer • 📊 Data Science Enthusiast • 🌐 Full Stack Developer
+</p>
 
 <h3 align="center">
 🤖 Aspiring AI Engineer &nbsp;|&nbsp;
