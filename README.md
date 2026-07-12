@@ -224,3 +224,86 @@ I enjoy solving real-world problems through code and continuously improving my s
 </p>
 
 ---
+<!-- ===================================================== -->
+<!--                FEATURED PROJECTS                      -->
+<!-- ===================================================== -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 StudentHub</h3>
+
+<p align="center">
+
+A complete Student Management System developed using <b>Java</b> & <b>MySQL</b>.
+
+✨ Features
+
+- 👨‍🎓 Student Login
+- 👨‍🏫 Faculty Login
+- 👨‍💼 Admin Panel
+- 📅 Attendance
+- 📝 Assignments
+- 📊 Results
+- 📚 Study Material
+- 📢 Notifications
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🗳️ Voting Machine in C</h3>
+
+<p align="center">
+
+A console-based Electronic Voting Machine developed in <b>C</b>.
+
+✨ Features
+
+- 🗳️ Multiple Candidates
+- ✅ Secure Vote Counting
+- 📊 Instant Result Display
+- 🚫 Prevent Invalid Votes
+- 💻 Console-Based Interface
+- ⚡ Fast & Simple Execution
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Console%20Application-4CAF50?style=for-the-badge"/>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<h3 align="center">🎯 Current Mission</h3>
+
+<p align="center">
+
+Building projects that strengthen my skills in
+
+<b>Artificial Intelligence</b> • <b>Data Science</b> • <b>Full Stack Development</b>
+
+</p>
+
+---
