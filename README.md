@@ -90,8 +90,6 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 🎯 Full Stack Development
 
-🎯 Machine Learning
-
 🎯 Problem Solving
 
 🎯 Java Development
@@ -236,6 +234,9 @@ I enjoy solving real-world problems through code and continuously improving my s
 <tr>
 
 <td width="50%" valign="top">
+  <p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python](https://sl.bing.net/dhMvulFXWSq)"/>
+</p>
 </td>
 
 <td width="50%" valign="top">
