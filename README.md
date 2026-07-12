@@ -120,7 +120,7 @@ I enjoy solving real-world problems through code and continuously improving my s
 ### 👨‍💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mysql,mongodb,git,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python=5"/>
 </p>
 
 ---
