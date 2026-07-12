@@ -234,12 +234,6 @@ I enjoy solving real-world problems through code and continuously improving my s
 <tr>
 
 <td width="50%" valign="top">
-  <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python](https://sl.bing.net/dhMvulFXWSq)"/>
-</p>
-</td>
-
-<td width="50%" valign="top">
 
 <h3 align="center">🗳️ Voting Machine in C <br><sub>✅ Completed</sub></h3>
 
