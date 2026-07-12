@@ -227,43 +227,15 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 ---
 <!-- ===================================================== -->
-<!--                FEATURED PROJECTS                      -->
+<!--                    PROJECTS                           -->
 <!-- ===================================================== -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Projects have done !</h2>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
-
-<h3 align="center">🎓 StudentHub <br><sub>🚧 In Development</sub></h3>
-
-<p align="center">
-
-A modern **Student Management System** built using **Java** & **MySQL** to simplify academic management for students, faculty, and administrators.
-
-</p>
-
-### ✨ Planned Features
-
-- 👨‍🎓 Student Login
-- 👨‍🏫 Faculty Login
-- 👨‍💼 Admin Dashboard
-- 📅 Attendance Management
-- 📝 Assignment Portal
-- 📊 Results & SGPA
-- 📚 Study Materials
-- 📢 Notifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge"/>
-
-</p>
-
 </td>
 
 <td width="50%" valign="top">
