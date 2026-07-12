@@ -1,43 +1,49 @@
-<!-- ========================= HERO SECTION ========================= -->
+<!-- ========================= ABOUT ME ========================= -->
 
-<div align="center">
+<h2 align="center">🚀 About Me</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:3A86FF,100:7B2FF7&height=220&section=header&text=Tirth%20Patel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=60"/>
+<img align="right" alt="Coding" width="370" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-</div>
+- 👋 Hi, I'm **Tirth Patel**
 
----
+- 🎓 Computer Engineering Student from **India 🇮🇳**
 
-<div align="center">
+- 🤖 **Aspiring AI Engineer**
 
-# 👋 Hello, I'm Tirth Patel
+- 📊 **Data Science Enthusiast**
 
-### 🚀 Computer Engineering Student from India 🇮🇳
+- 🌐 **Full Stack Developer**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Enthusiast;Full+Stack+Developer;Java+Developer;Python+Learner;DSA+Explorer;Building+StudentHub;Future+AI+Engineer;Always+Learning+New+Technologies"/>
+- 💻 I enjoy building real-world projects and solving problems through code.
 
-</div>
+- 🌱 Currently learning **Java, Python, DSA, SQL and Full Stack Development**
 
----
+- 🚀 Working on **StudentHub – Student Management System**
 
-<div align="center">
+- 🎯 Goal: To become an AI Engineer, build impactful products and contribute to innovative technologies.
 
-### 💡 "From Curiosity to Code."
+- ⚡ Fun Fact: **I believe every great product starts with curiosity.**
 
-*"Learning every day. Building projects that solve real-world problems."*
-
-</div>
+<br clear="both"/>
 
 ---
 
-<div align="center">
+<h2 align="center">🌐 Connect With Me</h2>
 
-<img src="https://komarev.com/ghpvc/?username=tirthvpatel204&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<p align="center">
 
-<img src="https://img.shields.io/github/followers/tirthvpatel204?style=for-the-badge&logo=github&color=blue"/>
+<a href="https://www.linkedin.com/in/tirthpatel204" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/github/stars/tirthvpatel204?style=for-the-badge&logo=github&color=yellow"/>
+<a href="mailto:pateltirth2048@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://github.com/tirthvpatel204">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
