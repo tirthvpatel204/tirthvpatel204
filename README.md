@@ -265,40 +265,33 @@ A complete Student Management System developed using <b>Java</b> & <b>MySQL</b>.
 
 <td width="50%" valign="top">
 
-<h3 align="center">🗳️ Voting Machine in C</h3>
+### 🗳️ Voting Machine in C
 
-<p align="center">
+A console-based **Electronic Voting Machine** developed in **C Programming** that simulates a secure voting process with instant vote counting and result generation.
 
-A console-based Electronic Voting Machine developed in <b>C</b>.
-
-✨ Features
-
-- 🗳️ Multiple Candidates
-- ✅ Secure Vote Counting
-- 📊 Instant Result Display
-- 🚫 Prevent Invalid Votes
-- 💻 Console-Based Interface
-- ⚡ Fast & Simple Execution
-
-</p>
-
-<p align="center">
+<p align="left">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Console%20Application-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 
 </p>
 
-</td>
+#### ✨ Features
 
-</tr>
-</table>
+- 🗳️ Cast votes for multiple candidates
+- 📊 Instant vote counting
+- 📈 Result declaration
+- 🚫 Prevents invalid voting inputs
+- ⚡ Fast and lightweight console application
 
----
+<p align="left">
 
-<h3 align="center">🎯 Current Mission</h3>
+<a href="https://github.com/tirthvpatel204/VotingMachineinC">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p align="center">
+</p>
 
 Building projects that strengthen my skills in
 
