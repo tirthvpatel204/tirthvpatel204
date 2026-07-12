@@ -235,29 +235,30 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 <td width="50%" valign="top">
 
-<h3 align="center">🎓 StudentHub</h3>
+<h3 align="center">🎓 StudentHub <br><sub>🚧 In Development</sub></h3>
 
 <p align="center">
 
-A complete Student Management System developed using <b>Java</b> & <b>MySQL</b>.
+A modern **Student Management System** built using **Java** & **MySQL** to simplify academic management for students, faculty, and administrators.
 
-✨ Features
+</p>
+
+### ✨ Planned Features
 
 - 👨‍🎓 Student Login
 - 👨‍🏫 Faculty Login
-- 👨‍💼 Admin Panel
-- 📅 Attendance
-- 📝 Assignments
-- 📊 Results
-- 📚 Study Material
+- 👨‍💼 Admin Dashboard
+- 📅 Attendance Management
+- 📝 Assignment Portal
+- 📊 Results & SGPA
+- 📚 Study Materials
 - 📢 Notifications
-
-</p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge"/>
 
 </p>
 
@@ -265,33 +266,39 @@ A complete Student Management System developed using <b>Java</b> & <b>MySQL</b>.
 
 <td width="50%" valign="top">
 
-### 🗳️ Voting Machine in C
+<h3 align="center">🗳️ Voting Machine in C <br><sub>✅ Completed</sub></h3>
 
-A console-based **Electronic Voting Machine** developed in **C Programming** that simulates a secure voting process with instant vote counting and result generation.
+<p align="center">
 
-<p align="left">
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Console%20Application-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+A console-based Electronic Voting Machine built in **C** that securely records votes, counts them instantly, and displays election results.
 
 </p>
 
-#### ✨ Features
+### ✨ Features
 
-- 🗳️ Cast votes for multiple candidates
-- 📊 Instant vote counting
-- 📈 Result declaration
-- 🚫 Prevents invalid voting inputs
-- ⚡ Fast and lightweight console application
+- 🗳️ Multiple Candidate Voting
+- 📊 Instant Vote Counting
+- 📈 Result Declaration
+- 🚫 Invalid Vote Protection
+- 💻 Console-Based Interface
 
-<p align="left">
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+
+<br><br>
 
 <a href="https://github.com/tirthvpatel204/VotingMachineinC">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
+
+</td>
+
+</tr>
+</table>
 
 Building projects that strengthen my skills in
 
