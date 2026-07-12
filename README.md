@@ -6,7 +6,7 @@
 
 - 👋 Hi, I'm **Tirth Patel**
 
-- 🎓 Computer Engineering Student from **India 🇮🇳**
+- 🎓 AIML Engineering Student from **India 🇮🇳**
 
 - 🤖 **Aspiring AI Engineer**
 
