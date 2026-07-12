@@ -17,10 +17,6 @@
 👋 Hi, I'm Tirth Patel
 </h2>
 
-<p align="center">
-🤖 Aspiring AI Engineer • 📊 Data Science Enthusiast • 🌐 Full Stack Developer
-</p>
-
 <h3 align="center">
 🤖 Aspiring AI Engineer &nbsp;|&nbsp;
 📊 Data Science Enthusiast &nbsp;|&nbsp;
@@ -123,8 +119,8 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 ### 👨‍💻 Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mysql,mongodb,git,github,vscode&perline=5"/>
 </p>
 
 ---
@@ -441,3 +437,4 @@ If you like my work, don't forget to ⭐ my repositories and connect with me.
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
