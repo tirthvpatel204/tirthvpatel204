@@ -389,3 +389,54 @@ I'm always open to connecting with developers, collaborating on exciting project
 </p>
 
 ---
+<!-- ===================================================== -->
+<!--              CONTRIBUTION SNAKE                       -->
+<!-- ===================================================== -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/tirthvpatel204/tirthvpatel204/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</p>
+
+---
+
+<h2 align="center">👀 Visitors</h2>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=tirthvpatel204&label=PROFILE+VIEWS&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+<h2 align="center">❤️ Thanks for Visiting My Profile</h2>
+
+<p align="center">
+
+If you like my work, don't forget to ⭐ my repositories and connect with me.
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/tirthvpatel204">
+<img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tirthpatel204">
+<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=gradient&customColorList=12,20,24,30"/>
+
+</div>
