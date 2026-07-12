@@ -340,3 +340,52 @@ Building projects that strengthen my skills in
 
 
 ---
+<!-- ===================================================== -->
+<!--                 CONNECT WITH ME                       -->
+<!-- ===================================================== -->
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+I'm always open to connecting with developers, collaborating on exciting projects, and exploring opportunities in AI, Data Science, and Full Stack Development.
+</p>
+
+<p align="center">
+
+<a href="mailto:pateltirth2048@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tirthpatel204" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tirthvpatel204" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h2 align="center">💬 Developer Quote</h2>
+
+<p align="center">
+
+<i>
+"Every expert was once a beginner. Every great project starts with curiosity and consistent learning."
+</i>
+
+</p>
+
+---
+
+<h2 align="center">☕ Fun Fact</h2>
+
+<p align="center">
+
+💡 I enjoy building real-world applications and continuously exploring the latest technologies in Artificial Intelligence, Data Science, and Full Stack Development.
+
+</p>
+
+---
