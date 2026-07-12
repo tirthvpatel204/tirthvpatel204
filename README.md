@@ -393,13 +393,7 @@ I'm always open to connecting with developers, collaborating on exciting project
 <!--              CONTRIBUTION SNAKE                       -->
 <!-- ===================================================== -->
 
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/tirthvpatel204/tirthvpatel204/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
-</p>
 
 ---
 
