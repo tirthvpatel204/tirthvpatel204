@@ -125,7 +125,7 @@ I enjoy solving real-world problems through code and continuously improving my s
 ### 🌐 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
 ---
@@ -149,7 +149,7 @@ I enjoy solving real-world problems through code and continuously improving my s
 ### 🤖 AI • Data Science (Currently Learning)
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
@@ -157,7 +157,7 @@ I enjoy solving real-world problems through code and continuously improving my s
 ### 🛠️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
 </p>
 
 ---
@@ -179,5 +179,48 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 🚀 MERN Stack
 ```
+
+---
+<!-- ===================================================== -->
+<!--                 GITHUB ANALYTICS                      -->
+<!-- ===================================================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tirthvpatel204&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tirthvpatel204&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tirthvpatel204&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tirthvpatel204&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</p>
 
 ---
