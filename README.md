@@ -125,7 +125,7 @@ I enjoy solving real-world problems through code and continuously improving my s
 ### 🌐 Frontend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react.js" />
 </p>
 
 ---
@@ -133,7 +133,7 @@ I enjoy solving real-world problems through code and continuously improving my s
 ### ⚙️ Backend Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=node.js,express.js" />
 </p>
 
 ---
