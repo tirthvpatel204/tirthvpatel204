@@ -206,51 +206,192 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tirthvpatel204&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
-
-</p>
 ---
 <!-- ===================================================== -->
 <!--                    PROJECTS                           -->
 <!-- ===================================================== -->
+<!-- ===================================================== -->
+<!--                    PROJECTS                           -->
+<!-- ===================================================== -->
 
-<h2 align="center">🚀 Projects have done !</h2>
+<h2 align="center">🚀 Projects I Have Done</h2>
+
+<p align="center">
+A collection of projects I have built while learning and exploring different technologies.
+</p>
 
 <table>
 <tr>
 
+<!-- Voting Machine -->
 <td width="50%" valign="top">
 
-<h3 align="center">🗳️ Voting Machine in C <br><sub>✅ Completed</sub></h3>
+<h3 align="center">🗳️ Voting Machine in C</h3>
 
 <p align="center">
-
-A console-based Electronic Voting Machine built in **C** that securely records votes, counts them instantly, and displays election results.
-
+A console-based Electronic Voting Machine built in C that records votes, counts them, and displays election results.
 </p>
 
-### ✨ Features
-
-- 🗳️ Multiple Candidate Voting
-- 📊 Instant Vote Counting
-- 📈 Result Declaration
-- 🚫 Invalid Vote Protection
-- 💻 Console-Based Interface
-
 <p align="center">
-
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
+</p>
 
-<br><br>
-
+<p align="center">
 <a href="https://github.com/tirthvpatel204/VotingMachineinC">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
+
+</td>
+
+<!-- Smart Budget Tracker -->
+<td width="50%" valign="top">
+
+<h3 align="center">💰 Smart Budget Tracker</h3>
+
+<p align="center">
+A web-based budget management application for tracking income, expenses, and financial activities.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/tirthvpatel204/Smart_Budget_Tracker">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://smartbudgettrackerbytp.infinityfree.me/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- StudentHub -->
+<td width="50%" valign="top">
+
+<h3 align="center">🎓 StudentHub</h3>
+
+<p align="center">
+A student management platform designed to manage student information, academics, attendance, results, notices, and other student activities.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/tirthvpatel204">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<!-- Smart Car Parking -->
+<td width="50%" valign="top">
+
+<h3 align="center">🚗 Smart Car Parking Management System</h3>
+
+<p align="center">
+A smart parking management system for managing parking slots, vehicle details, bookings, payments, and parking history.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/tirthvpatel204">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- C++ Projects -->
+<td width="50%" valign="top">
+
+<h3 align="center">💻 C++ Projects</h3>
+
+<p align="center">
+A collection of C++ programs and problem-solving projects created while strengthening programming and DSA fundamentals.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-Learning-blue?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/tirthvpatel204">
+<img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+<!-- More Projects -->
+<td width="50%" valign="top">
+
+<h3 align="center">🚀 More Projects</h3>
+
+<p align="center">
+More projects are continuously being developed as I explore Artificial Intelligence, Data Science, Full Stack Development, Java, Python, and DSA.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AI-Exploring-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developing-success?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/tirthvpatel204?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+<b>Building projects that strengthen my skills in</b>
+
+<br><br>
+
+<b>Artificial Intelligence</b> •
+<b>Data Science</b> •
+<b>Full Stack Development</b> •
+<b>Java</b> •
+<b>Python</b> •
+<b>C/C++</b> •
+<b>DSA</b>
 
 </p>
 
