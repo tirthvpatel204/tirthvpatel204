@@ -402,6 +402,19 @@ Building projects that strengthen my skills in
 </p>
 
 ---
+<h2 align="center">🧠 Problem Solving</h2>
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<img src="https://img.shields.io/badge/DSA-Currently%20Learning-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Competitive%20Programming-Exploring-purple?style=for-the-badge"/>
+
+</p>
 <!-- ===================================================== -->
 <!--          CERTIFICATIONS & LEARNING JOURNEY            -->
 <!-- ===================================================== -->
