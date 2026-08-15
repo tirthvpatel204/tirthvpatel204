@@ -170,7 +170,18 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 🚀 MERN Stack
 ```
+<h2 align="center">🤖 AI & Data Science Journey</h2>
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-✓-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Learning-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Learning-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Future-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-Future-blue?style=for-the-badge"/>
+
+</p>
 ---
 <!-- ===================================================== -->
 <!--                 GITHUB ANALYTICS                      -->
@@ -402,19 +413,7 @@ Building projects that strengthen my skills in
 </p>
 
 ---
-<h2 align="center">🧠 Problem Solving</h2>
 
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<img src="https://img.shields.io/badge/DSA-Currently%20Learning-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Competitive%20Programming-Exploring-purple?style=for-the-badge"/>
-
-</p>
 <!-- ===================================================== -->
 <!--          CERTIFICATIONS & LEARNING JOURNEY            -->
 <!-- ===================================================== -->
