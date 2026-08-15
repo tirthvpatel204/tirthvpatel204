@@ -212,65 +212,52 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 <img src="https://github-profile-trophy.vercel.app/?username=tirthvpatel204&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 
-</p>
-------------------------------------------------------------------------------------------------------------
-<!-- ===================================================== -->
+</p><!-- ===================================================== -->
+
 <!--                 GITHUB ANALYTICS                      -->
+
 <!-- ===================================================== -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <i>My complete GitHub contribution and coding activity</i>
+  <i>My GitHub contribution and coding activity</i>
 </p>
 
 <br>
 
-<!-- ================= CONTRIBUTION CALENDAR ============ -->
+<!-- ================= GITHUB STATISTICS ================= -->
 
 <p align="center">
   <img
-    src="https://ghchart.rshah.org/2ea043/tirthvpatel204"
-    alt="GitHub Contribution Calendar"
-    width="100%"
-  />
-</p>
-
-<br>
-
-<!-- ================= CONTRIBUTION STATS ================ -->
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tirthvpatel204&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=30363D&ring=2EA043&fire=2EA043&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=8B949E"
-    width="100%"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
-<br>
-
-<!-- ================= GITHUB STATS ====================== -->
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tirthvpatel204&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"
-    width="100%"
+    src="https://github-readme-stats.vercel.app/api?username=tirthvpatel204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
     alt="GitHub Statistics"
   />
 </p>
 
 <br>
 
-<!-- ================= LANGUAGE ANALYTICS ================ -->
+<!-- ================= LANGUAGES ========================= -->
 
-<h3 align="center">💻 Languages</h3>
+<h2 align="center">💻 Languages</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15"
-    width="450"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=donut&langs_count=8&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
+  />
+</p>
+
+<br>
+
+<!-- ================= CONTRIBUTION STREAK =============== -->
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tirthvpatel204&theme=tokyonight&hide_border=true&border_radius=15"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
@@ -278,35 +265,36 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 <!-- ================= ACTIVITY GRAPH ==================== -->
 
-<h3 align="center">📈 Contribution Activity</h3>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&bg_color=0D1117&color=58A6FF&line=2EA043&point=FFFFFF&area=true&hide_border=true&custom_title=Tirth%20Patel%20Contribution%20Activity"
-    width="100%"
-    alt="GitHub Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=tokyo-night&hide_border=true&area=true"
+    alt="Tirth Patel Contribution Activity"
   />
 </p>
 
 <br>
 
-<!-- ================= PROFILE SUMMARY ================== -->
+<!-- ================= CONTRIBUTION CALENDAR ============= -->
+
+<h2 align="center">📅 Contribution Calendar</h2>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tirthvpatel204&theme=tokyonight"
+    src="https://ghchart.rshah.org/2ea043/tirthvpatel204"
+    alt="Tirth Patel GitHub Contribution Calendar"
     width="100%"
-    alt="GitHub Profile Summary"
   />
 </p>
 
 <br>
-
-<!-- ================= FOOTER ============================ -->
 
 <p align="center">
   <b>Code • Commit • Contribute • Grow</b>
 </p>
+
+---
 
 ---
 <!-- ===================================================== -->
