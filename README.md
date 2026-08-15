@@ -213,6 +213,68 @@ I enjoy solving real-world problems through code and continuously improving my s
 <img src="https://github-profile-trophy.vercel.app/?username=tirthvpatel204&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </p>
+<!-- ===================================================== -->
+
+<!--              LANGUAGE CONTRIBUTIONS                   -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">💻 My Language Contributions</h2>
+
+<p align="center">
+  <i>Languages I use to build, experiment, and contribute to my GitHub projects</i>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php" />
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8"
+    width="400"
+  />
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+</p>
+
+---
+
+### 📊 Languages Across My Projects
+
+| Language                                                                         | Used For                       |
+| -------------------------------------------------------------------------------- | ------------------------------ |
+| <img src="https://skillicons.dev/icons?i=c" width="30"/> **C**                   | Programming & DSA Projects     |
+| <img src="https://skillicons.dev/icons?i=cpp" width="30"/> **C++**               | DSA & Problem Solving          |
+| <img src="https://skillicons.dev/icons?i=java" width="30"/> **Java**             | Java Practicals & Applications |
+| <img src="https://skillicons.dev/icons?i=python" width="30"/> **Python**         | AI, Data Science & Programming |
+| <img src="https://skillicons.dev/icons?i=html" width="30"/> **HTML**             | Web Development                |
+| <img src="https://skillicons.dev/icons?i=css" width="30"/> **CSS**               | UI & Web Design                |
+| <img src="https://skillicons.dev/icons?i=javascript" width="30"/> **JavaScript** | Interactive Web Applications   |
+| <img src="https://skillicons.dev/icons?i=php" width="30"/> **PHP**               | Backend & Database Projects    |
+
+---
+
+<p align="center">
+  <b>Continuously learning. Building. Contributing. Improving.</b>
+</p>
+
+---
 
 ---
 <!-- ===================================================== -->
