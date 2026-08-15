@@ -213,62 +213,7 @@ I enjoy solving real-world problems through code and continuously improving my s
 <img src="https://github-profile-trophy.vercel.app/?username=tirthvpatel204&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </p>
-------------------------------------------------------------------------------------
-<!-- ===================================================== -->
 
-<!--              GITHUB CONTRIBUTION CALENDAR             -->
-
-<!-- ===================================================== -->
-
-<h2 align="center">🔥 GitHub Contribution Calendar</h2>
-
-<p align="center">
-  <i>My coding activity and contributions throughout the year</i>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/tirthvpatel204"
-    alt="Tirth Patel GitHub Contribution Calendar"
-    width="100%"
-  />
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/github/commit-activity/y/tirthvpatel204?style=for-the-badge&logo=github&label=YEARLY%20COMMITS"/>
-
-<img src="https://img.shields.io/github/last-commit/tirthvpatel204/tirthvpatel204?style=for-the-badge&logo=github&label=LAST%20COMMIT"/>
-
-<img src="https://img.shields.io/github/created-at/tirthvpatel204/tirthvpatel204?style=for-the-badge&logo=github&label=PROFILE"/>
-
-</p>
-
-<br>
-
-<h3 align="center">📊 Contribution Activity</h3>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=tokyo-night&hide_border=true&area=true&custom_title=Tirth%20Patel%20Contribution%20Activity"
-    width="100%"
-  />
-</p>
-
----
-
-<p align="center">
-  <b>Every contribution counts.</b><br>
-  <sub>Learning • Building • Improving • Contributing</sub>
-</p>
-
----
-
-------------------------------------------------------------------------------------
 <!-- ===================================================== -->
 <!--                    PROJECTS                           -->
 <!-- ===================================================== -->
