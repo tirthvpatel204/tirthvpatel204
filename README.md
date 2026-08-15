@@ -213,16 +213,17 @@ I enjoy solving real-world problems through code and continuously improving my s
 <img src="https://github-profile-trophy.vercel.app/?username=tirthvpatel204&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
 
 </p>
+
+ <!-- ===================================================== -->
+
+<!--          LANGUAGE & CONTRIBUTION ANALYTICS            -->
+
 <!-- ===================================================== -->
 
-<!--              LANGUAGE CONTRIBUTIONS                   -->
-
-<!-- ===================================================== -->
-
-<h2 align="center">💻 My Language Contributions</h2>
+<h2 align="center">💻 Language Contributions</h2>
 
 <p align="center">
-  <i>Languages I use to build, experiment, and contribute to my GitHub projects</i>
+  <i>My coding activity across different programming languages</i>
 </p>
 
 <p align="center">
@@ -231,14 +232,22 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 <br>
 
+<!-- Dynamic Language Percentage Graph -->
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8"
-    width="400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=donut&theme=tokyonight&hide_border=true&langs_count=8"
+    width="430"
   />
 </p>
 
+<p align="center">
+  <b>Language Distribution</b>
+</p>
+
 <br>
+
+<!-- Language Badges -->
 
 <p align="center">
 
@@ -246,6 +255,11 @@ I enjoy solving real-world problems through code and continuously improving my s
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -255,24 +269,50 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 ---
 
-### 📊 Languages Across My Projects
+<h2 align="center">📊 GitHub Contribution Overview</h2>
 
-| Language                                                                         | Used For                       |
-| -------------------------------------------------------------------------------- | ------------------------------ |
-| <img src="https://skillicons.dev/icons?i=c" width="30"/> **C**                   | Programming & DSA Projects     |
-| <img src="https://skillicons.dev/icons?i=cpp" width="30"/> **C++**               | DSA & Problem Solving          |
-| <img src="https://skillicons.dev/icons?i=java" width="30"/> **Java**             | Java Practicals & Applications |
-| <img src="https://skillicons.dev/icons?i=python" width="30"/> **Python**         | AI, Data Science & Programming |
-| <img src="https://skillicons.dev/icons?i=html" width="30"/> **HTML**             | Web Development                |
-| <img src="https://skillicons.dev/icons?i=css" width="30"/> **CSS**               | UI & Web Design                |
-| <img src="https://skillicons.dev/icons?i=javascript" width="30"/> **JavaScript** | Interactive Web Applications   |
-| <img src="https://skillicons.dev/icons?i=php" width="30"/> **PHP**               | Backend & Database Projects    |
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tirthvpatel204&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"
+    width="48%"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=tirthvpatel204&theme=tokyonight&hide_border=true&border_radius=15"
+    width="48%"
+  />
+</p>
+
+---
+
+<h2 align="center">🔥 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
+
+---
+
+<h2 align="center">📈 Coding Activity</h2>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tirthvpatel204&theme=tokyonight" width="48%"/>
+
+</p>
 
 ---
 
 <p align="center">
-  <b>Continuously learning. Building. Contributing. Improving.</b>
+  <b>Code • Learn • Build • Contribute • Repeat</b>
 </p>
+
+---
+
 
 ---
 
