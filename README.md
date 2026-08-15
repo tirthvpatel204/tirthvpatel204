@@ -438,20 +438,6 @@ Building projects that strengthen my skills in
 <b>Artificial Intelligence</b> • <b>Data Science</b> • <b>Full Stack Development</b>
 
 </p>
-
----
-<!-- ===================================================== -->
-<!--              2026 CONTRIBUTION CALENDAR              -->
-<!-- ===================================================== -->
-<h2 align="center">📅 My 2026 Contribution Calendar</h2>
-
-<p align="center">
-  <b>A year of coding, learning, building and contributing.</b>
-</p>
-
-<p align="center">
-  <img src="./assets/2026-contribution-calendar.svg" width="100%" />
-</p>
 ---
 <!-- ===================================================== -->
 <!--          CERTIFICATIONS & LEARNING JOURNEY            -->
