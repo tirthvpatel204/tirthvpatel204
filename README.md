@@ -467,10 +467,6 @@ Building projects that strengthen my skills in
 </td>
 </tr>
 </table>
-
----
-
-
 ---
 <!-- ===================================================== -->
 <!--                 CONNECT WITH ME                       -->
