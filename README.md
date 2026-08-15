@@ -208,29 +208,8 @@ I enjoy solving real-world problems through code and continuously improving my s
 | 🚗 Smart Car Parking | Full Stack | PHP • MySQL • JS | 🔨 Building |
 | 🤖 AI Projects | Artificial Intelligence | Python | 🧠 Learning |
 ---
-<h2 align="center">🧪 Currently Experimenting With</h2>
 
-```text
-Python              ███████████░░░  Learning
-Data Science        ████████░░░░░░  Exploring
-Machine Learning    ██████░░░░░░░░  Exploring
-MERN Stack          ████████░░░░░░  Learning
-DSA                 █████████░░░░░  Improving
-AI Engineering     █████░░░░░░░░░  Exploring
 
----
-<h2 align="center">📈 Coding Activity</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
----
-<h2 align="center">🐍 Contribution Activity</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/tirthvpatel204/tirthvpatel204/output/github-contribution-grid-snake.svg"/>
-</p>
----
 <!-- ===================================================== -->
 <!--                 GITHUB ANALYTICS                      -->
 <!-- ===================================================== -->
