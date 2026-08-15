@@ -8,7 +8,7 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=280&color=081426&text=Tirth%20Patel&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20•%20Data%20Science%20Enthusiast&descAlignY=60&descSize=22&descColor=F4C95D"
+  src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0A1B3D&text=Tirth%20Patel&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20•%20Data%20Science%20Enthusiast&descAlignY=60&descSize=22&descColor=EAF2FF"
 />
 
 <p align="center">
