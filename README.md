@@ -206,13 +206,6 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 ---
 
-
----
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tirthvpatel204&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
-</p>
 <!-- ===================================================== -->
 <!--                    PROJECTS                           -->
 <!-- ===================================================== -->
