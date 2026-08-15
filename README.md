@@ -440,7 +440,29 @@ Building projects that strengthen my skills in
 </p>
 
 ---
+<!-- ===================================================== -->
+<!--              2026 CONTRIBUTION CALENDAR              -->
+<!-- ===================================================== -->
 
+<h2 align="center">📅 2026 Contribution Calendar</h2>
+
+<p align="center">
+  <b>My coding journey throughout 2026</b>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=github-compact&hide_border=true&area=true&custom_title=2026%20Contribution%20Activity"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Each contribution represents a step in my learning and building journey.
+  </sub>
+</p>
+---
 <!-- ===================================================== -->
 <!--          CERTIFICATIONS & LEARNING JOURNEY            -->
 <!-- ===================================================== -->
