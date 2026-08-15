@@ -182,6 +182,21 @@ I enjoy solving real-world problems through code and continuously improving my s
 <img src="https://img.shields.io/badge/Generative%20AI-Future-blue?style=for-the-badge"/>
 
 </p>
+---<h2 align="center">📚 My Learning Journey</h2>
+
+| Skill | Status |
+|---|---|
+| C / C++ | 🟢 Strong Foundation |
+| Java | 🟡 Improving |
+| Python | 🟡 Learning |
+| DSA | 🟡 Improving |
+| HTML / CSS / JavaScript | 🟢 Building Projects |
+| React | 🟡 Learning |
+| Node.js / Express | 🟡 Learning |
+| SQL / MySQL | 🟢 Project Experience |
+| AI / ML | 🔵 Exploring |
+| Data Science | 🔵 Exploring |
+| MERN Stack | 🔵 Learning |
 ---
 <!-- ===================================================== -->
 <!--                 GITHUB ANALYTICS                      -->
