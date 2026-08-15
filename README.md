@@ -452,14 +452,14 @@ Building projects that strengthen my skills in
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=github-compact&hide_border=true&area=true&custom_title=2026%20Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=github-compact&hide_border=true"
     width="100%"
   />
 </p>
 
 <p align="center">
   <sub>
-    Each contribution represents a step in my learning and building journey.
+    Every contribution represents another step in my journey of learning, building, and improving.
   </sub>
 </p>
 ---
