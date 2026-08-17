@@ -170,6 +170,8 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 🚀 MERN Stack
 ```
+---
+---
 <h2 align="center">🤖 AI & Data Science Journey</h2>
 
 <p align="center">
