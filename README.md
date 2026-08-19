@@ -227,12 +227,17 @@ I enjoy solving real-world problems through code and continuously improving my s
 </p>
 
 <p align="center">
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=86400"
+  />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tirthvpatel204&theme=tokyonight&utcOffset=5.5"/>
-
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tirthvpatel204&theme=tokyonight&utcOffset=5.5"
+  />
 </p>
+
 
 ---
 
