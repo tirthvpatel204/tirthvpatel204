@@ -222,7 +222,7 @@ I enjoy solving real-world problems through code and continuously improving my s
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=tirthvpatel204&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tirthvpatel204&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=tirthvpatel204&theme=tokyonight&hide_border=true&border_radius=15"/>
 
 </p>
 
