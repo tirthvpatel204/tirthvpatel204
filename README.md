@@ -219,27 +219,6 @@ I enjoy solving real-world problems through code and continuously improving my s
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=tirthvpatel204&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
-    width="95%"
-    alt="GitHub Contribution Activity"
-  />
-</p>
-
-<p align="center">
   <img
     width="48%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=86400"
