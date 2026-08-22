@@ -219,11 +219,24 @@ I enjoy solving real-world problems through code and continuously improving my s
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
+  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tirthvpatel204&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=tirthvpatel204&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF"
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
 
-<img height="170" src="https://streak-stats.demolab.com/?user=tirthvpatel204&theme=tokyonight&hide_border=true&border_radius=15"/>
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"
+    width="95%"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 <p align="center">
