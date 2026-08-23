@@ -80,6 +80,21 @@ I enjoy solving real-world problems through code and continuously improving my s
 - 📚 Learning something new every day
 
 ---
+## 🚀 My Personal Portfolio | TIRTH PATEL
+
+A digital space where I showcase **what I build, what I learn, and where I’m heading.**
+
+💻 Projects • 🧠 Skills • 🚀 Innovation • 📈 Growth
+
+Explore my journey as a **Student | Developer | Data Science Enthusiast**.
+
+<p align="center">
+  <a href="https://tirthpatel-zlh6k69.public.builtwithrocket.new/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-000000?style=for-the-badge" alt="Visit My Portfolio">
+  </a>
+</p>
+
+---
 
 # 🚀 Current Focus
 
