@@ -250,18 +250,15 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 
 <h2 align="center">📈 Contribution Graph</h2>
 
-<h2 align="center">📈 My Contribution Journey</h2>
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&bg_color=0d1117&color=58a6ff&line=00e676&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <a href="https://github.com/tirthvpatel204">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=react-dark&hide_border=true&area=true"
+      width="100%"
+      alt="Tirth Patel's GitHub Activity Graph"
+    />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tirthvpatel204&theme=github-dark-blue&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tirthvpatel204&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%"/>
-</p>
-
-
 ---
 
 <!-- ===================================================== -->
