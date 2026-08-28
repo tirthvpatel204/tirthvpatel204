@@ -255,30 +255,9 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tulsi18patel&theme=tokyo-night&hide_border=true"/>
 
 </p>
----
-<!-- GitHub Stats Card -->
 
-<div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=tirthvpatel204&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10"
-  width="90%"
-/>
 
-</div>
-
-<br>
-
-<!-- WakaTime Languages Card -->
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/wakatime?username=tirthvpatel204&layout=default&theme=tokyonight&hide_border=false&custom_title=Languages%20over%20Last%20Year%20(Powered%20by%20wakatime.com)&display_format=percent"
-  width="90%"
-/>
-
-</div>
 
 ---
 
