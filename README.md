@@ -234,36 +234,36 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    width="48%"
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tirthvpatel204&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
     alt="GitHub Stats"
   />
-
-  <img
-    src="./profile/top-langs.svg"
-    width="48%"
+  
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tirthvpatel204&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
     alt="Top Languages"
   />
 </p>
 
----
+<br>
 
 <!-- ===================================================== -->
 <!--                 CONTRIBUTION GRAPH                    -->
 <!-- ===================================================== -->
 
-<h2 align="center">📈 Contribution Graph</h2>
+<h2 align="center">📈 GitHub Contributions</h2>
 
 <p align="center">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=tokyo-night&hide_border=true"
-    alt="Tirth Patel GitHub Activity Graph"
-  />
+  <a href="https://github.com/tirthvpatel204">
+    <img
+      src="https://ghchart.rshah.org/tirthvpatel204"
+      alt="Tirth Patel GitHub Contributions"
+      width="100%"
+    />
+  </a>
 </p>
-
----
 
 ---
 
