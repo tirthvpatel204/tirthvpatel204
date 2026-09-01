@@ -236,15 +236,22 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tirthvpatel204" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com?user=tirthvpatel204&theme=radical&hide_border=true&border_radius=15&background=0D1117"
+    alt="GitHub Streak"
+  />
 </p>
 
-## 📈 Contribution Graph
+
+## 📊 GitHub Contribution Histogram
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tirthvpatel204&theme=github_dark"
+    alt="GitHub Contributions"
+    width="100%"
+  />
 </p>
-
 <br>
 
 <!-- ===================================================== -->
