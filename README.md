@@ -247,16 +247,21 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 
 ---
 
+<!-- ===================================================== -->
+<!--                 CONTRIBUTION GRAPH                    -->
+<!-- ===================================================== -->
+
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <img
     width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=tokyo-night&hide_border=true"
+    alt="Tirth Patel GitHub Activity Graph"
   />
 </p>
 
----
+
 ---
 
 <!-- ===================================================== -->
