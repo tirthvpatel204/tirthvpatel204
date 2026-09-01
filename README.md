@@ -233,24 +233,18 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
+## 🔥 GitHub Streak
+
 <p align="center">
-
-  <img
-    src="https://img.shields.io/github/followers/tirthvpatel204?style=for-the-badge&logo=github&label=Followers"
-    alt="Followers"
-  />
-
-  <img
-    src="https://img.shields.io/github/stars/tirthvpatel204?style=for-the-badge&logo=github&label=Stars"
-    alt="Stars"
-  />
-
-  <img
-    src="https://img.shields.io/github/commit-activity/y/tirthvpatel204?style=for-the-badge&logo=github&label=Commits"
-    alt="Commit Activity"
-  />
-
+  <img src="https://streak-stats.demolab.com?user=tirthvpatel204" alt="GitHub Streak" />
 </p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&hide_border=true" alt="Contribution Graph" />
+</p>
+
 <br>
 
 <!-- ===================================================== -->
