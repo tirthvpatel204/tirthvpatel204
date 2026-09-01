@@ -234,19 +234,23 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tirthvpatel204&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
-  
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tirthvpatel204&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
 
+  <img
+    src="https://img.shields.io/github/followers/tirthvpatel204?style=for-the-badge&logo=github&label=Followers"
+    alt="Followers"
+  />
+
+  <img
+    src="https://img.shields.io/github/stars/tirthvpatel204?style=for-the-badge&logo=github&label=Stars"
+    alt="Stars"
+  />
+
+  <img
+    src="https://img.shields.io/github/commit-activity/y/tirthvpatel204?style=for-the-badge&logo=github&label=Commits"
+    alt="Commit Activity"
+  />
+
+</p>
 <br>
 
 <!-- ===================================================== -->
