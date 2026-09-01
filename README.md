@@ -236,29 +236,27 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=tirthvpatel204&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"
   />
 
   <img
     width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tirthvpatel204&theme=tokyonight&utcOffset=5.5"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
   />
 </p>
-
 
 ---
 
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tulsi18patel&theme=tokyo-night&hide_border=true"/>
-
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
-
-
-
+---
 ---
 
 <!-- ===================================================== -->
