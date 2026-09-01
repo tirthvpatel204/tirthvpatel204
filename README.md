@@ -235,13 +235,15 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 
 <p align="center">
   <img
+    src="./profile/stats.svg"
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=tirthvpatel204&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"
+    alt="GitHub Stats"
   />
 
   <img
+    src="./profile/top-langs.svg"
     width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirthvpatel204&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+    alt="Top Languages"
   />
 </p>
 
@@ -261,6 +263,7 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
   />
 </p>
 
+---
 
 ---
 
