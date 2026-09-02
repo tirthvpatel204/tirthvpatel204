@@ -325,11 +325,11 @@ A web-based budget management application for tracking income, expenses, and fin
 </p>
 
 <p align="center">
-<a href="https://github.com/tirthvpatel204/Smart_Budget_Tracker">
+<a href="https://github.com/tirthvpatel204/Modern-Budget-Tracker">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://smartbudgettrackerbytp.infinityfree.me/">
+<a href="https://smart-budget-tracker-tp.infinityfree.me/">
 <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge"/>
 </a>
 </p>
