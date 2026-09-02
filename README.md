@@ -310,7 +310,7 @@ A console-based Electronic Voting Machine built in C that records votes, counts 
 <!-- Smart Budget Tracker -->
 <td width="50%" valign="top">
 
-<h3 align="center">💰 Smart Budget Tracker</h3>
+<h3 align="center">💰 Modern Budget Tracker</h3>
 
 <p align="center">
 A web-based budget management application for tracking income, expenses, and financial activities.
