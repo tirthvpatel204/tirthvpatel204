@@ -285,13 +285,13 @@ A collection of projects I have built while learning and exploring different tec
 <table>
 <tr>
 
-<!-- Voting Machine -->
+<!-- Cash Intelligence Navigator -->
 <td width="50%" valign="top">
 
-<h3 align="center">🗳️ Voting Machine in C</h3>
+<h3 align="center">🗳️ Cash Intelligence Navigator</h3>
 
 <p align="center">
-A console-based Electronic Voting Machine built in C that records votes, counts them, and displays election results.
+Where every rupee becomes insight — helping you track today, plan tomorrow, and reach your goals.
 </p>
 
 <p align="center">
@@ -300,8 +300,14 @@ A console-based Electronic Voting Machine built in C that records votes, counts 
 </p>
 
 <p align="center">
-<a href="https://github.com/tirthvpatel204/VotingMachineinC">
+<a href="https://github.com/tirthvpatel204/Cash-Intelligence-Navigator">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href=" https://cash-intelligence-navigator.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge"/>
 </a>
 </p>
 
