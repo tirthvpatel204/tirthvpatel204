@@ -373,19 +373,19 @@ A smart parking management system for managing parking slots, vehicle details, b
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 </p>
-
 <p align="center">
-<a href="https://github.com/tirthvpatel204">
+<a href="https://github.com/tirthvpatel204/Smart-Parking-Management-System">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://smart-parking-management-system-dusky.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge"/>
+</a>
 </p>
-
 </td>
 
 </tr>
