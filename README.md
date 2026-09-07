@@ -161,8 +161,12 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 ### 🛠️ Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,vercel" />
+
+
 </p>
+
 
 ---
 
