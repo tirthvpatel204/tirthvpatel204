@@ -228,31 +228,66 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 
 
 <!-- ===================================================== -->
-<!--                 GITHUB ANALYTICS                      -->
-<!-- ===================================================== -->
+<!-- ======================= GITHUB ANALYTICS ======================= -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<hr>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tirthvpatel204&theme=radical&hide_border=true&border_radius=15&background=0D1117"
-    alt="GitHub Streak"
-  />
-</p>
-
-
-## 📊 GitHub Contribution Histogram
+<h2>📊 GitHub Analytics</h2>
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tirthvpatel204&theme=github_dark"
-    alt="GitHub Contributions"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&bg_color=0d1117&color=ffffff&line=00ff88&point=00ff88&area=true&hide_border=true"
     width="100%"
+    alt="GitHub Contribution Graph"
   />
 </p>
+
 <br>
+
+<!-- Contribution / Streak Stats -->
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tirthvpatel204&theme=dark&background=0D1117&border=00FF88&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"
+    width="100%"
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+<br>
+
+<!-- Languages -->
+
+<h3 align="center">🟣 Languages</h3>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirthvpatel204&theme=github_dark"
+    width="48%"
+    alt="Languages"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tirthvpatel204&theme=github_dark"
+    width="48%"
+    alt="Most Commit Languages"
+  />
+</p>
+
+<br>
+
+<!-- GitHub Stats -->
+
+<h3 align="center">🔵 GitHub Statistics</h3>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirthvpatel204&theme=github_dark"
+    width="70%"
+    alt="GitHub Statistics"
+  />
+</p>
+
+<!-- ======================= END GITHUB ANALYTICS ======================= -->
 
 <!-- ===================================================== -->
 <!--                 CONTRIBUTION GRAPH                    -->
