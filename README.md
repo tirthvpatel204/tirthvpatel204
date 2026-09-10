@@ -236,15 +236,6 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 
 <h2>📊 GitHub Analytics</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tirthvpatel204&bg_color=0d1117&color=ffffff&line=00ff88&point=00ff88&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Graph"
-  />
-</p>
-
-<br>
 
 <!-- Contribution / Streak Stats -->
 
