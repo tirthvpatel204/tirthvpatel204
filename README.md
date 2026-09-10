@@ -146,7 +146,7 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 
 🗄️ Database
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase" /> </p>>
+<p align="left"> <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,firebase" /> </p>
 
 ---
 
