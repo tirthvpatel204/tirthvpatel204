@@ -373,7 +373,7 @@ A web-based budget management application for tracking income, expenses, and fin
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://smart-budget-tracker-tp.infinityfree.me/">
+<a href="https://sbtbytp.infinityfree.me/?i=1">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-00C853?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 </p>
