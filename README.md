@@ -241,7 +241,7 @@ Explore my journey as a **Student | Developer | Data Science Enthusiast**.
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=tirthvpatel204&theme=dark&background=0D1117&border=00FF88&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"
+    src="https://streak-stats.demolab.com/?user=tirthvpatel204&theme=dark&background=0D1117&border=00FF88&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"
     width="100%"
     alt="GitHub Streak Stats"
   />
